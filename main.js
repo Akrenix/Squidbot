@@ -198,4 +198,4 @@ client.on('guildMemberRemove', async member => {
 	sentMessage.react('748627665233248347');
 	});
 });
-client.login(NzQzNjcwNTkwMjA4MDgxOTIw.XzYDNQ.-bXdd2Uwqg7OMEXX7608Cc1S5l4)
+client.login(token here)
